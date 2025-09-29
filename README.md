@@ -165,15 +165,15 @@ sqlcmd -S YOUR_SERVER_NAME -E -d MarketingAnalytics -Q "SELECT COUNT(*) FROM cus
 Project Root
 ├── MarketingAnalytics.bak           # Database backup file
 ├── customer_reviews_enrichment.py   # Main Python analysis script
-├── Dashboard.pbix                   # Power BI dashboard
+├── Dashboard.pbix (adding soon)     # Power BI dashboard 
 ├── fact_customer_reviews_enrich.csv # Generated sentiment analysis results
-├── dim_customers.sql               # Customer dimension query
-├── dim_products.sql                # Product dimension query
-├── fact_customer_reviews.sql       # Customer reviews fact query
-├── fact_engagement_data.sql        # Engagement data fact query
-├── fact_customer_journey.sql       # Customer journey fact query
-├── Calendar_DAX_Script.txt         # Power BI calendar calculations
-└── README.md                       # This file
+├── dim_customers.sql                # Customer dimension query
+├── dim_products.sql                 # Product dimension query
+├── fact_customer_reviews.sql        # Customer reviews fact query
+├── fact_engagement_data.sql         # Engagement data fact query
+├── fact_customer_journey.sql        # Customer journey fact query
+├── Calendar_DAX_Script.txt          # Power BI calendar calculations
+└── README.md                        # This file
 ```
 
 ---
