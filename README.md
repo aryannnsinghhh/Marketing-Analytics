@@ -112,8 +112,8 @@ Modern businesses face complex challenges in understanding customer behavior, op
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/DataAnalystPortfolioProject_PBI_SQL_Python_MarketingAnalytics.git
-cd DataAnalystPortfolioProject_PBI_SQL_Python_MarketingAnalytics
+git clone https://github.com/yourusername/MarketingAnalytics.git
+cd MarketingAnalytics
 ```
 
 ### Step 2: Database Setup
