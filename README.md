@@ -172,13 +172,6 @@ python customer_reviews_enrichment.py
 - Sentiment analysis progress
 - Generated file: `fact_customer_reviews_enrich.csv`
 
-### Step 5: Power BI Setup
-1. Open `Dashboard.pbix` in Power BI Desktop
-2. **Update Data Source Connection:**
-   - Go to Transform Data → Data Source Settings
-   - Update server name to match your SQL Server instance
-   - Refresh the data
-
 ### Troubleshooting
 
 #### Common Issues:
